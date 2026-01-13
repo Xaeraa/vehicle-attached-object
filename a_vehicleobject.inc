@@ -3,7 +3,7 @@
     those dont know, Attaching Object to Vehicle doesn't same like Attaching Object to Player.
     So, in this include i've replicated Attaching Object to Player for Vehicle.
 
-    remember! this is just replicated, and have any lack.
+    remember! this is just replicated, and not 100% accurate.
 
     By : Fann / Xaeraa
 
