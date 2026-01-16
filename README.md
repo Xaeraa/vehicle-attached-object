@@ -23,11 +23,11 @@ this include not 100% accurate like Player Attached Object.
 
 ### Native
 ```pawn
-    IsVehicleAttachedObjectSlotUsed(vehicleid, index)
+    IsVehicleAttachedObjectSlotUsed(vehicleid, index);
 	SetVehicleAttachedObject(vehicleid, index, modelid, Float:offset_x= 0.0, Float:offset_y= 0.0, Float:offset_z= 0.0, Float:rotation_x= 0.0, Float:rotation_y= 0.0, Float:rotation_z= 0.0, materialColour1 = 0, materialColour2 = 0) ;
     RemoveVehicleAttachedObject(vehicleid, index);
 	GetInfoVehicleAttachedObject(vehicleid, index, &modelid, &Float:offset_x, &Float:offset_y, &Float:offset_z, &Float:rotation_x, &Float:rotation_y, &Float:rotation_z, &materialColour1 = 0, &materialColour2 = 0);
-    EditVehicleAttachedObject(vehicleid, objectid);
+    EditVehicleAttachedObject(playerid, vehicleid, index);
 ```
 
 ### Callback
