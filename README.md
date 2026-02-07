@@ -4,6 +4,7 @@ this include not 100% accurate like Player Attached Object.
 
 ## Dependecy
 | Name | Version | Link |
+
 | Streamer | v2.10 | https://github.com/samp-incognito/samp-streamer-plugin/releases |
 
 ## How to Install?
